@@ -8,3 +8,5 @@ Kodluyoruz ekibine teşekkürler ediyorum
 MIT
 # Installation
 Link:https://github.com/EAfcknG/kodluyoruzilkrepo.git
+# Source 
+www.patika.dev
